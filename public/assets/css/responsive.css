@@ -1,0 +1,2657 @@
+@media(max-width: 1800px) {
+    .navPrev,
+    .navNext {
+        top: 46%;
+    }
+    .gap-left {
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+    .gap-margin {
+        margin: 0 40px;
+    }
+    .shaps-bottom {
+        transform: translatey(3px);
+    }
+    .footer-for .shaps-bottom {
+        margin-top: -3px;
+    }
+    .comment {
+        padding-top: 40px;
+    }
+    .post-tags {
+        padding-bottom: 10px;
+    }
+}
+
+@media(max-width: 1650px) {
+    .slider-home-2.owl-theme .owl-nav.disabled+.owl-dots {
+        right: -101%;
+    }
+    .mission-img img {
+        width: 100%;
+        padding-top: 80px;
+    }
+    .shaps-bottom {
+        transform: translatey(5px);
+    }
+    .navPrev,
+    .navNext {
+        top: 46%;
+    }
+}
+
+@media(max-width: 1400px) {
+    h2 {
+        font-size: 44px;
+    }
+    .posts {
+        padding: 30px;
+    }
+    .featured-area-two-data,
+    .featured-area-two-img {
+        margin-top: 40px;
+    }
+    .hoverimg figure {
+        margin: 0;
+    }
+    .footer-two .footer-top-bar {
+        padding-bottom: 60px;
+    }
+    header.two nav a {
+        padding: 8px 10px;
+    }
+    .featured-area-two {
+        padding-top: 20px;
+    }
+    .poor-boy-data h2 {
+        font-size: 50px;
+    }
+    header.two nav ul ul li a {
+        padding: 0px 0px;
+    }
+    .donate.volunteer a i {
+        width: 45px;
+        height: 45px;
+    }
+    .see-impact-slids .owl-nav button i {
+        width: 46px;
+        height: 46px;
+        font-size: 16px;
+    }
+    .home-life h1 {
+        font-size: 60px;
+    }
+    .subscribe svg {
+        width: 44px;
+    }
+    .what-we-provide {
+        margin-top: -50px;
+    }
+    .slides {
+        padding-top: 200px;
+        margin-top: -60px;
+        padding-bottom: 150px;
+    }
+    .upcoming-event-img:hover>a i {
+        top: 45%;
+    }
+    .upcoming-event-img>a i {
+        width: 50px;
+        height: 50px;
+    }
+    .event-details img {
+        width: 100%;
+    }
+    .featured-area-two-data i {
+        width: 56px;
+        height: 56px;
+    }
+    .subscribe {
+        padding: 20px 40px;
+        margin-top: 40px;
+    }
+    .subscribe form button {
+        height: 55px;
+    }
+    .btn {
+        padding: 28px 36px;
+    }
+    .homeless h6 {
+        margin-bottom: 30px;
+    }
+    .subscribe input {
+        height: 63px;
+    }
+    .upcoming-event-img figure {
+        width: 90%;
+    }
+    .footer-one .wpo-lower-footer {
+        transform: translateY(0px);
+        margin-top: -60px;
+        padding-bottom: 10px;
+    }
+    .hero-section-three-data h2 {
+        font-size: 100px;
+        line-height: 95px;
+    }
+    .hero-section-three-data h4 {
+        font-size: 24px;
+        line-height: 34px;
+    }
+    .navNext i,
+    .navPrev i {
+        font-size: 24px;
+    }
+    .navPrev:hover i,
+    .navNext:hover i {
+        border-radius: 19px;
+    }
+    .navPrev span img,
+    .navNext span img {
+        width: 100px;
+        height: 100px;
+    }
+    .odometer-inside {
+        line-height: 64px;
+    }
+    .Information {
+        padding-top: 60px;
+    }
+    .upcoming-event-data h6 {
+        font-size: 15px;
+        line-height: 25px;
+    }
+    .upcoming-event-data h4 {
+        margin-bottom: 7px;
+    }
+    .extras a.theme-btn {
+        margin-left: 30px;
+    }
+    .separator {
+        margin: 18px;
+    }
+    .logo:before {
+        right: -3%;
+    }
+    .homeless .progressbar {
+        margin-right: 20%;
+        margin-top: 20px;
+    }
+    nav ul ul li {
+        padding-left: 7px;
+    }
+    nav a {
+        padding: 26px 10px;
+    }
+    nav ul ul li a {
+        line-height: 40px;
+    }
+    nav ul ul li a {
+        padding-left: 5px;
+    }
+    nav ul li>ul {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 5px;
+    }
+    .progressbar {
+        margin-right: 140px
+    }
+    nav ul li ul li:hover ul {
+        margin-left: 177px;
+    }
+    .add-hover a span {
+        right: -20%;
+    }
+    .gifts-slids.owl-theme .owl-nav {
+        width: 16%;
+    }
+    .organizer img {
+        width: auto;
+    }
+    .volunteer {
+        padding: 50px 35px;
+    }
+    .empowers {
+        padding: 45px;
+    }
+    .blog-details-two-style {
+        margin: 0 70px;
+        padding: 0px 70px;
+        padding-bottom: 70px;
+        margin-top: -50px;
+    }
+    .volunteer i {
+        width: 100px;
+        height: 100px;
+    }
+    .youtube-video img {
+        width: 100%;
+    }
+    .team-img img {
+        width: 100%;
+    }
+    .urgent-causes-two img {
+        border-radius: 35px;
+        width: 100%;
+    }
+    .recent-causes-urgent h4 {
+        font-size: 20px;
+    }
+    .goal span {
+        font-size: 14px;
+    }
+    .urgent-causes-two {
+        width: 100%;
+        padding: 0;
+    }
+    .urgent-causes-two .recent-causes-urgent {
+        padding: 0;
+        padding: 40px;
+        padding-top: 30px;
+    }
+    .urgent-causes-two img {
+        width: 100%;
+        margin: 0;
+    }
+    .team-join-data {
+        border-top-right-radius: 0;
+        border-bottom-right-radius: 0;
+        bottom: 30px;
+    }
+    .shaps-bottom {
+        transform: translatey(4px);
+    }
+    .gifts-volunteer img {
+        width: 100%;
+    }
+    .colorbolo {
+        width: 450px;
+        height: 450px;
+    }
+    .news-article-one img {
+        width: 100%;
+    }
+    .news-article-one h6 {
+        bottom: 92px;
+        width: 80px;
+        height: 80px;
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .believe-water img.believe-water-girl {
+        width: 480px;
+        height: 480px;
+    }
+    .empowers h5 {
+        font-size: 60px;
+    }
+    .news-article-one h3 {
+        font-size: 22px;
+        line-height: 32px;
+    }
+    .footer-for .shaps-bottom {
+        margin-top: -4px;
+    }
+    .see-impact-data img.line-shaps {
+        left: 14%;
+    }
+    .believe-water img {
+        width: 100%;
+    }
+    .poor-boy img {
+        width: 100%;
+    }
+    .poor-boy .spin-img {
+        display: none;
+    }
+    .poor-boy.donation img.spin-img {
+        display: none;
+    }
+    .forpage {
+        padding-top: 180px;
+        padding-bottom: 70px;
+        margin-left: -1px;
+    }
+    .poor-boy.donation img {
+        width: 100%;
+    }
+    .forslider h1 {
+        font-size: 50px;
+        width: 52%;
+    }
+    .volunteer svg {
+        width: 55px;
+    }
+    .volunteer h3 {
+        font-size: 30px;
+    }
+    .heading h2 {
+        font-size: 44px;
+        line-height: 54px;
+    }
+    .help-man h5 {
+        font-size: 18px;
+        line-height: 28px;
+    }
+    .recent-causes-data {
+        width: 82%;
+        padding: 40px;
+    }
+    .please-donate-today {
+        padding: 50px;
+    }
+    .upcoming-event-data {
+        padding: 30px;
+        padding-top: 110px;
+    }
+    .upcoming-event-data h6 {
+        font-size: 15px;
+    }
+    .change-we-need:before {
+        height: 720px;
+        width: 800px;
+    }
+    .environment-section {
+        padding-top: 120px;
+        padding-bottom: 180px;
+    }
+    .slider-nav .slick-slide.slick-current.slick-active:before {
+        width: 78%;
+        margin-left: 17px;
+    }
+    .environment p {
+        width: 75%;
+    }
+    .slick-dotted.slick-slider {
+        width: 72%;
+    }
+    .slider-nav .slick-slide img {
+        width: 124px;
+    }
+    .gifts-img i {
+        font-size: 14px;
+    }
+    .article h4 {
+        padding: 20px;
+        width: 188px;
+        margin-right: 26px;
+        height: 105px;
+    }
+    .article-data {
+        margin-left: -172px;
+        padding: 30px;
+    }
+    .article.two .article-data {
+        margin: 0;
+        margin-right: -140px;
+    }
+    ul.social-media i {
+        width: 44px;
+        height: 44px;
+    }
+    .social-media li a {
+        margin-right: 22px;
+    }
+    .widget-title p {
+        width: 95%;
+    }
+    .donate-page {
+        padding: 60px;
+    }
+    .donate-page ul.give-donation-levels-wrap li:last-child {
+        width: 66%;
+    }
+    h1 {
+        font-size: 50px;
+    }
+    nav:before {
+        right: -6%;
+    }
+    .extras a.theme-btn {
+        padding: 44px 44px;
+    }
+    .get-involved img {
+        width: 100%;
+    }
+    .mission-img img {
+        padding-top: 150px;
+    }
+    .urgent-causes img {
+        width: 50%;
+    }
+    .child-sponsor p,
+    .child-sponsor span {
+        font-size: 14px;
+    }
+    .slider-nav-two.slick-initialized.slick-slider.slick-dotted {
+        width: 63%;
+    }
+    .child-sponsor-slide .owl-nav i,
+    .gifts-slids .owl-nav i {
+        width: 50px;
+        height: 50px;
+        font-size: 16px;
+    }
+    .nonprofit.two p {
+        width: 100%;
+    }
+    ul.want-to-Join-data li {
+        font-size: 16px;
+    }
+    .team-join img {
+        border-radius: 30px;
+        width: 100%;
+    }
+    .team-join-data h5 {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .team-join-data h6 {
+        font-size: 16px;
+    }
+    .support {
+        padding: 50px;
+    }
+    .team-join-data span {
+        font-size: 14px;
+    }
+    .team-join-data {
+        margin-right: 0px;
+        padding: 24px;
+    }
+    .featured-area-two-img img {
+        margin-top: 60px;
+    }
+    .hero-section-three {
+        padding-top: 200px;
+        padding-bottom: 100px;
+    }
+    .navPrev,
+    .navNext {
+        top: 49%;
+    }
+    nav ul li>ul {
+        padding: 15px;
+    }
+    ul.social-media i {
+        font-size: 18px;
+    }
+    section.small-donations .heading.two h2 {
+        font-size: 42px;
+    }
+    .small-donations .heading h6 {
+        width: 89%;
+    }
+    .charity-style-three-data {
+        padding: 30px;
+    }
+    .circle.three canvas {
+        background-color: white;
+        width: 130px !important;
+        height: 130px !important;
+    }
+    .circle.three div {
+        top: 32%;
+        left: 44%;
+        font-size: 40px;
+    }
+    .circle.three:before {
+        left: 19%;
+        top: 44%;
+        font-size: 13px;
+    }
+    .charity-style-three .progresbar {
+        position: absolute;
+        right: -17%;
+        bottom: -20%;
+    }
+    .charity-style-three-data h5 {
+        font-size: 22px;
+        line-height: 32px;
+    }
+    .article img {
+        width: 100%;
+    }
+    .get-involved.develop {
+        padding: 30px;
+    }
+    .get-involved.develop h3 {
+        font-weight: bold;
+        margin-bottom: 6px;
+    }
+    .charity-event-img img {
+        margin: 10px;
+    }
+    .upcoming-event-data.style-two .article h4 {
+        width: 108px;
+        margin-left: -86px;
+    }
+    .gifts-data h5 {
+        font-size: 18px;
+    }
+    .gifts-img.style-two {
+        padding: 20px;
+    }
+    .community {
+        padding-top: 120px;
+        padding-bottom: 120px;
+        background-size: cover;
+        background-position: bottom;
+    }
+    .ps-6 {
+        padding-left: 4rem;
+    }
+    .news-article-two img,
+    .news-article-two a h3 {
+        width: 100%;
+    }
+    .news-article-two img.man-img {
+        width: auto;
+    }
+    .news-article-two img.man-img {
+        top: 43%;
+        width: 80px;
+    }
+    .footer-bootom-bar.fore .wpo-lower-footer {
+        padding: 15px 0;
+        padding-top: 50px;
+    }
+    .donate.volunteer {
+        padding: 35px 35px;
+    }
+    .donate.volunteer p {
+        padding-bottom: 12px;
+    }
+    .donate.volunteer h3 {
+        font-size: 30px;
+        padding-top: 20px;
+    }
+    .error {
+        width: 66%;
+    }
+    .blog-details-text>img {
+        width: 100%;
+    }
+    .blog-details-text .article h4 {
+        width: 15%;
+    }
+    .meta-info ul li img {
+        width: auto;
+    }
+    .posts {
+        padding: 30px;
+    }
+    .instagram-posts a img {
+        width: 90px;
+        height: 90px;
+    }
+    .posts img {
+        border-radius: 30px;
+        width: 100%;
+    }
+    .recent-posts img {
+        width: auto;
+    }
+    .recent-causes-urgent {
+        padding: 30px;
+        padding-left: 60px;
+    }
+}
+
+@media(max-width: 1200px) {
+    .home-life h4,
+    .homeless h6 {
+        width: 100%;
+    }
+    .featured-area-two-img img.homeimg {
+        width: 85%;
+    }
+    .featured-area-two-img img.shaps-slider {
+        z-index: -1;
+        margin-top: 4%;
+    }
+    .charity-style-three:hover .btn {
+        left: 31%;
+        top: 20%;
+    }
+    .upcoming-event-time {
+        top: 46%;
+    }
+    table.shop_table_responsive tr {
+        padding: 0 25px;
+        font-size: 18px;
+    }
+    .donate-page button.give-btn.give-btn-level-custom {
+        margin-top: 20px;
+    }
+    .cart_totals h4 {
+        padding-left: 25px;
+    }
+    .project-today.owl-carousel .owl-item img {
+        display: block;
+        width: auto;
+    }
+    #mobile-nav,
+    .mobile-nav {
+        width: 40%;
+    }
+    .project-today-data.item {
+        display: flex;
+    }
+    .about-text {
+        width: 100%;
+    }
+    .blog-details-text .article h4 {
+        width: auto;
+    }
+    .instagram-posts a img {
+        width: 100%;
+        height: 200px;
+    }
+    .blog-details-two-style {
+        padding: 0 50px;
+        padding-bottom: 50px;
+    }
+    .blog-details-text h2 {
+        font-size: 34px;
+        line-height: 44px;
+    }
+    .p-60 {
+        padding-left: 40px;
+        padding-right: 30px;
+    }
+    .sidebar {
+        margin-top: 40px;
+    }
+    .p-100 {
+        padding: 0;
+    }
+    .error h3 {
+        font-size: 30px;
+    }
+    .error {
+        width: 68%;
+    }
+    .error h2 {
+        font-size: 140px;
+        line-height: 140px;
+    }
+    .share-post-icon {
+        flex-wrap: wrap;
+    }
+    .hero-section-three-data h2 {
+        font-size: 100px;
+        line-height: 90px;
+    }
+    .urgent-causes-two {
+        width: 100%;
+        margin-bottom: 58px;
+    }
+    .hero-section-three-data h4 {
+        font-size: 20px;
+        line-height: 36px;
+        width: 52%;
+    }
+    .what-we-provide-text {
+        margin-bottom: 20px;
+    }
+    section.small-donations .heading.two h2 {
+        font-size: 34px;
+        line-height: 44px;
+    }
+    .help-man img.helptwo {
+        margin-top: 44px;
+    }
+    .recent-causes-data {
+        padding: 60px;
+    }
+    .small-donations .heading h6 {
+        width: 100%;
+    }
+    .circle div {
+        top: 35%;
+        left: 44%;
+        width: 100%;
+        font-size: 36px;
+    }
+    .circle:before {
+        top: 46%;
+        right: 22%;
+        font-size: 14px;
+    }
+    section.small-donations .progresbar {
+        width: 36px;
+        height: 90px;
+        display: flex;
+    }
+    .charity-style-three {
+        margin-bottom: 70px;
+    }
+    .circle canvas {
+        width: 150px !important;
+        height: 150px !important;
+    }
+    .please-donate-today {
+        padding: 40px;
+    }
+    .hero-section-three-data p {
+        font-size: 18px;
+    }
+    .hero-section-three {
+        padding-bottom: 100px;
+    }
+    .separator {
+        width: 180px;
+    }
+    .homeless h6 {
+        padding-bottom: 30px;
+    }
+    .donate-form ul li {
+        padding-right: 40px;
+    }
+    .upcoming-event-img img {
+        width: 100%;
+    }
+    .upcoming-event-img {
+        margin-bottom: 40px;
+    }
+    .change-we-need:before {
+        display: none;
+    }
+    ul.heart {
+        margin-bottom: 50px;
+    }
+    .environment {
+        width: 76%;
+    }
+    .testimonials h4 {
+        width: 90%;
+    }
+    .slider-nav .slick-slide.slick-current.slick-active:before {
+        width: 92%;
+        margin-left: 6px;
+    }
+    .gifts-slids.owl-theme .owl-nav {
+        width: 19%;
+    }
+    .article {
+        flex-wrap: wrap;
+    }
+    .article-data {
+        margin-left: 100px;
+        padding: 30px;
+        width: 100%;
+        margin-top: -50px;
+    }
+    .article.two .article-data {
+        margin-right: 100px;
+        transform: translateY(50px);
+        margin-top: -50px;
+    }
+    .article img,
+    .subscribe form {
+        width: 100%;
+    }
+    .article-data h3 {
+        font-size: 32px;
+        line-height: 42px;
+    }
+    .article h4 {
+        padding: 21px;
+        width: 125px;
+        margin-right: 32px;
+    }
+    .social-media {
+        margin-top: 30px;
+    }
+    .subscribe {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .subscribe form {
+        margin-top: 30px;
+    }
+    .subscribe input {
+        width: 96%;
+    }
+    .subscribe form button {
+        left: 74%;
+    }
+    .help-man h5 {
+        width: 68%;
+        font-size: 16px;
+        line-height: 26px;
+    }
+    h1 {
+        font-size: 40px;
+    }
+    .featured-area-two-data p {
+        font-size: 18px;
+        line-height: 28px;
+    }
+    .heading h2 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .get-involved.data {
+        padding: 30px;
+    }
+    .get-involved.data h3 {
+        font-size: 22px;
+    }
+    .mission-img img {
+        padding-top: 60px;
+    }
+    .slider-nav-two.slick-initialized.slick-slider.slick-dotted {
+        width: 72%;
+    }
+    .testimonial h4 {
+        width: 85%;
+    }
+    .child-sponsor h3,
+    .child-sponsor p,
+    .child-sponsor span {
+        font-size: 16px;
+    }
+    .team-join {
+        margin-bottom: 30px;
+    }
+    .share-story i {
+        font-size: 60px;
+    }
+    .share-story h3 {
+        font-size: 24px;
+    }
+    .upcoming-event-data.style-two {
+        margin-top: 30px;
+    }
+    .upcoming-event-data.style-two .article h4 {
+        width: auto;
+        margin-left: -86px;
+    }
+    .fundraising-data h3 {
+        font-size: 22px;
+    }
+    .fundraising-data i {
+        width: 120px;
+        height: 120px;
+    }
+    .fundraising-data svg {
+        width: 50px;
+    }
+    .gifts-img.style-two {
+        margin-bottom: 40px;
+    }
+    .community .heading.two {
+        text-align: center;
+        width: 100%;
+    }
+    .news-article-two {
+        margin-bottom: 40px;
+    }
+    .news-article-two img.man-img {
+        top: 48%;
+    }
+    .footer-three {
+        width: 70%;
+    }
+    .poor-boy.one-style {
+        position: relative;
+        margin-top: 40px;
+    }
+    .empowers {
+        width: 70%;
+        padding: 20px;
+    }
+    .poor-boy-data h2 {
+        font-size: 50px;
+        line-height: 60px;
+    }
+    .donate.volunteer {
+        margin-bottom: 20px;
+    }
+    .gifts-volunteer img {
+        margin-top: 120px;
+    }
+    .volunteer-for h2 {
+        width: 100%;
+    }
+    .colorbolo {
+        width: 400px;
+        height: 400px;
+        margin-top: 60px;
+    }
+    .volunteer-for li {
+        font-size: 18px;
+    }
+    .shaps-bottom {
+        transform: translatey(5px);
+    }
+    .project-today.owl-carousel.owl-loaded.owl-drag {
+        max-hight: 340px !important;
+    }
+    .help-us-reach-img img {
+        position: relative;
+        width: 100%;
+        margin-top: 100px;
+    }
+    .see-impact h2 {
+        font-size: 34px;
+    }
+    .help-us-reach h2 {
+        width: 100%;
+        font-size: 34px;
+        line-height: 44px;
+    }
+    .news-article-one {
+        position: relative;
+        margin-bottom: 34px;
+    }
+    .footer-for .shaps-bottom {
+        margin-top: -5px;
+    }
+    .see-impact-data img.line-shaps {
+        left: 20%;
+    }
+    .news-article-one h6 {
+        bottom: 70px;
+        top: auto;
+    }
+    .news-article-one h3 {
+        font-size: 24px;
+        line-height: 32px;
+    }
+    .believe-water img.believe-water-girl {
+        width: 100%;
+        height: auto;
+        position: relative;
+    }
+    img.believe-water-women {
+        display: none;
+    }
+    .investment-the-world .heading.two h2 {
+        font-size: 34px;
+        line-height: 44px;
+    }
+    .recent-causes-urgent {
+        padding: 20px;
+        padding-left: 40px;
+    }
+    .responsive-bar {
+        display: block;
+    }
+    .top-bar,
+    .second-bar {
+        display: none;
+    }
+    .responsive-bar {
+        display: block;
+        padding: 20px 0;
+    }
+}
+
+@media(max-width: 993px) {
+    .gap {
+        padding: 100px 0;
+    }
+    .no-top {
+        padding-top: 0;
+    }
+    .donation-section .homeless .circle.three canvas {
+        margin-top: 0px;
+    }
+    .charity-style-three:hover .btn {
+        left: 24%;
+        top: 15%;
+    }
+    table.shop_table td.product-price bdi {
+        font-size: 20px;
+    }
+    table.shop_table td.product-price del {
+        font-size: 14px;
+    }
+    table.shop_table td.product-quantity input {
+        padding: 14px;
+        width: 150px;
+    }
+    table.shop_table td.product-subtotal span {
+        font-size: 18px;
+    }
+    table.shop_table td.product-name img {
+        margin-bottom: 10px;
+        margin-right: 10px;
+    }
+    table.shop_table td.product-name {
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+    }
+    table.shop_table td.product-name span {
+        font-size: 14px;
+    }
+    table.shop_table td.product-name a {
+        font-size: 18px;
+    }
+    table.shop_table td.product-name img {
+        margin-bottom: 10px;
+    }
+    .coupon-area {
+        margin: 30px 0;
+    }
+    .charity-style-three .circle.three:before {
+        left: 21%;
+        top: 43%;
+        font-size: 13px;
+    }
+    .volunteer {
+        padding: 40px 28px;
+    }
+    .donation-section .circle.three canvas {
+        width: 160px !important;
+        height: 160px !important;
+    }
+    .donation-section .circle.three div {
+        top: 39%;
+        left: 44%;
+        font-size: 40px;
+    }
+    .sec-loading .one {
+        height: 80px;
+        width: 80px;
+    }
+    .circle.three:before {
+        left: 19%;
+        top: 55%;
+        font-size: 16px;
+    }
+    .get-involved.data.contact h6 {
+        font-size: 16px;
+    }
+    .no-bottom {
+        padding-bottom: 0;
+    }
+    #mobile-nav,
+    .mobile-nav {
+        width: 50%;
+    }
+    .urgent-causes {
+        display: flex;
+        flex-wrap: wrap;
+        text-align: center;
+        justify-content: center;
+    }
+    .contact-map {
+        margin-bottom: 40px;
+    }
+    .enter-your-information {
+        flex-wrap: wrap;
+    }
+    .blog-details-two-style {
+        margin: 0;
+    }
+    .woocommerce-additional-fields {
+        padding-top: 40px;
+    }
+    .p-60 {
+        padding-left: 0px;
+        padding-right: 00px;
+        padding-top: 40px;
+    }
+    .cart_totals.cart-Total {
+        margin: 30px 0;
+    }
+    .blog-details-two-style .single-comment {
+        flex-wrap: wrap;
+        padding: 30px;
+    }
+    .what-do-you-get {
+        padding: 40px;
+        padding-bottom: 0;
+    }
+    .team-list li {
+        font-size: 16px;
+    }
+    .what-do-you-get {
+        padding-bottom: 20px;
+    }
+    .what-do-you-get .team-list {
+        margin-bottom: 0;
+    }
+    ul.specification li span {
+        left: 32%;
+    }
+    .tabs-img {
+        margin: 10px 0;
+    }
+    .blog-details-two-style .about-the-theodore {
+        flex-wrap: wrap;
+        padding: 30px;
+    }
+    .blog-details-two-style img {
+        margin-bottom: 20px;
+    }
+    .error {
+        padding: 80px;
+        width: 80%;
+    }
+    .blog-details-text h2 {
+        font-size: 34px;
+        line-height: 50px;
+    }
+    .share-post-icon ul.social-media-icon.full {
+        margin-top: 0px;
+    }
+    .event-details-text .upcoming-event-time {
+        width: 50%;
+        margin-left: 40px;
+    }
+    .youtube-video {
+        margin-top: 0 !important;
+    }
+    .obviously h3 {
+        font-size: 22px;
+        line-height: 32px;
+    }
+    .event-details-text h2 {
+        font-size: 34px;
+        line-height: 42px;
+    }
+    .organizer {
+        margin-top: 20px;
+    }
+    .event-time {
+        margin-bottom: 30px;
+    }
+    .event-img-two {
+        margin-bottom: 30px;
+    }
+    ul.team-list {
+        margin-bottom: 40px;
+    }
+    .details-title .progressbar {
+        right: 0;
+        margin-top: 44px;
+        margin-right: 76px;
+    }
+    .details-title-two p {
+        padding: 30px 0px;
+    }
+    .title-area-data h2 {
+        font-size: 60px;
+        line-height: 70px;
+    }
+    .teme-from {
+        margin-top: 40px;
+    }
+    .team-img img {
+        margin-bottom: 40px;
+    }
+    section.gap.about-img-slidr {
+        margin-top: 100px;
+    }
+    .urgent-causes {
+        margin-bottom: 40px;
+    }
+    .urgent-causes img {
+        width: 100%;
+    }
+    .urgent-causes img {
+        margin: 0;
+        margin-bottom: 30px;
+    }
+    .recent-causes-urgent {
+        padding-left: 80px;
+        padding: 0;
+        margin-bottom: 30px;
+    }
+    .forslider h1 {
+        font-size: 60px;
+        width: 100%;
+    }
+    .empowers {
+        width: 41%;
+        padding: 20px;
+    }
+    .volunteer-for h3 {
+        font-size: 70px;
+        margin-top: 60px;
+    }
+    .gifts-volunteer img {
+        margin-top: 50px;
+    }
+    .colorbolo {
+        margin-top: 144px;
+    }
+    .shaps-bottom {
+        transform: translatey(6px);
+    }
+    .help-us-reach-img img {
+        margin-top: 30px;
+    }
+    .news-article-one h6 {
+        bottom: 95px;
+    }
+    .see-impact-slids .owl-nav {
+        left: -107%;
+    }
+    .footer-for .shaps-bottom {
+        margin-top: -6px;
+    }
+    .footer-logo p {
+        width: 100%;
+    }
+    .footer-logo {
+        margin-bottom: 40px;
+    }
+    .poor-boy-data {
+        margin-top: 40px;
+    }
+    .believe-water {
+        position: relative;
+        margin-top: 30px;
+    }
+    .volunteer {
+        margin-bottom: 40px;
+    }
+    .heading h2 {
+        font-size: 40px;
+        line-height: 50px;
+        width: 90%;
+        padding-bottom: 40px;
+    }
+    .upcoming-event-data h6 {
+        font-size: 18px;
+    }
+    .help-man h5 {
+        width: 55%;
+        font-size: 20px;
+        line-height: 32px;
+    }
+    .navPrev span img,
+    .navNext span img {
+        width: 100px;
+        height: 100px;
+    }
+    .navNext i,
+    .navPrev i {
+        display: none !important;
+    }
+    .navPrev,
+    .navNext {
+        top: 40%;
+    }
+    .small-donations-img {
+        margin-top: 130px;
+    }
+    .help-man-data p {
+        padding-top: 40px;
+    }
+    .charity-style-three .progresbar {
+        position: absolute;
+        right: -16%;
+        bottom: -20%;
+    }
+    .charity-style-three:hover .btn {
+        line-height: 20%;
+    }
+    .get-involved.develop.mb-0 {
+        margin-bottom: 40px !important;
+    }
+    .please-donate-today {
+        margin-top: 40px;
+    }
+    .upcoming-event-data>h4 {
+        font-size: 32px;
+        line-height: 42px;
+    }
+    .upcoming-event-time {
+        top: 59%;
+    }
+    .upcoming-event-img:hover>a i {
+        top: 53%;
+    }
+    .upcoming-event-data {
+        padding: 60px;
+        padding-top: 110px;
+    }
+    .testimonials h4 {
+        width: 100%;
+    }
+    .slider-nav .slick-slide.slick-current.slick-active:before {
+        width: 75%;
+        margin-left: 21px;
+    }
+    .gifts-img i {
+        font-size: 16px;
+    }
+    .article-data {
+        margin-left: 0;
+    }
+    .article h4 {
+        width: auto;
+    }
+    .article.two .article-data {
+        margin-right: 0;
+    }
+    .environment {
+        width: 100%;
+    }
+    .wpo-lower-footer {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .wpo-lower-footer p {
+        padding-bottom: 20px;
+    }
+    .subscribe input {
+        width: 100%;
+    }
+    .subscribe form button {
+        right: 1%;
+        left: 65%;
+    }
+    .get-involved.data {
+        padding: 30px;
+        margin-bottom: 30px;
+        border: 1px solid #f1f1f1;
+    }
+    body.drak-mode .get-involved.data {
+        border: 1px solid #363636;
+    }
+    .slider-nav-two .slick-slide.slick-current.slick-active:after {
+        right: 72%;
+    }
+    .testimonial h4 {
+        width: 100%;
+        font-size: 20px;
+        line-height: 32px;
+    }
+    .fun-facts-style {
+        margin-bottom: 30px;
+    }
+    .share-story {
+        margin-bottom: 20px;
+    }
+    .support {
+        padding: 50px;
+        margin-bottom: 20px;
+    }
+    .slider-nav-two .slick-slide.slick-current.slick-active:after {
+        right: 44%;
+    }
+    ul.want-to-Join-data {
+        margin-top: 30px;
+    }
+    .fundraising-data.three {
+        margin-top: 0;
+    }
+    .news-article-two img.man-img {
+        top: 35%;
+    }
+    .footer-three {
+        width: 92%;
+    }
+    ul.image-gallery li figure {
+        width: 100px;
+        height: 100px;
+    }
+    .hero-section-three-data h2 {
+        font-size: 88px;
+    }
+    .gap-left {
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+    .blog-details-text h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .blog-details-text .team-list {
+        padding-bottom: 0;
+    }
+}
+
+@media(max-width: 768px) {
+    .home-life h1 {
+        font-size: 76px;
+    }
+    .charity-style-three:hover .btn {
+        left: 31%;
+        top: 23%;
+    }
+    .blog-details-two-style {
+        padding: 0 30px;
+        padding-bottom: 50px;
+    }
+    .Fund-cercle span {
+        left: 38%;
+    }
+    ul.team-list {
+        margin-bottom: 15px;
+    }
+    .blog-details-two-style {
+        margin-top: -50px;
+    }
+    .about-img {
+        padding-top: 15px;
+    }
+    .page-title-area {
+        padding-top: 160px;
+    }
+    html,
+    body {
+        overflow-x: hidden !important;
+    }
+    .volunteer {
+        margin-bottom: 20px;
+    }
+    .about-the-theodore {
+        margin-top: 0px;
+    }
+    .teme-from {
+        padding: 40px;
+    }
+    .obviously h3 {
+        padding: 40px;
+    }
+    .slider-home-2.owl-theme .owl-dots .owl-dot span,
+    .slider-home-2.owl-theme .owl-dots .owl-dot:hover span {
+        width: 22px;
+    }
+    .slider-home-2.owl-theme .owl-dots .owl-dot.active span,
+    .slider-home-2.owl-theme .owl-dots .owl-dot.active:hover span {
+        width: 60px;
+        height: 2px;
+        margin-top: 30px;
+    }
+    .slider-home-2 .owl-dot.active:before {
+        font-size: 20px;
+    }
+    .donate-page {
+        padding: 40px;
+    }
+    .project-today .owl-item.active.center .project-today-data {
+        flex-wrap: wrap;
+        justify-content: center;
+        text-align: center;
+    }
+    #mobile-nav,
+    .mobile-nav {
+        width: 65%;
+    }
+    .recent-causes-urgent a h4 {
+        padding-top: 26px;
+        font-size: 24px;
+    }
+    .project-today.owl-carousel .owl-item.active.center img {
+        width: 100%;
+        padding: 0;
+        margin: 0;
+    }
+    ul.specification li h6 {
+        padding-left: 20px;
+        font-size: 16px;
+    }
+    .post-tags {
+        flex-wrap: wrap;
+    }
+    .post-tags h6 {
+        padding-right: 0px;
+        margin-bottom: 20px;
+        padding-left: 12px;
+    }
+    .product-info h2 {
+        font-size: 36px;
+        line-height: 46px;
+    }
+    .nav-pills .nav-link {
+        padding: 0 17.4px;
+        font-size: 14px;
+    }
+    .review .single-comment {
+        padding: 0;
+    }
+    .single-comment img {
+        margin-bottom: 20px;
+    }
+    .add-review {
+        padding: 30px;
+    }
+    .review h3 {
+        font-size: 20px;
+    }
+    .rating i {
+        font-size: 12px;
+    }
+    .rating span {
+        font-size: 14px;
+    }
+    .slider-home-2.for-home.owl-theme .owl-nav.disabled+.owl-dots {
+        margin-top: -110px;
+        top: 2%;
+    }
+    .instagram-posts a img {
+        height: 139px;
+    }
+    .error h2 {
+        font-size: 110px;
+        line-height: 110px;
+    }
+    .post-tags li a {
+        font-size: 12px;
+        padding: 12px;
+    }
+    .about-the-theodore {
+        flex-wrap: wrap;
+        padding: 40px;
+    }
+    .blog-details-text img {
+        margin-bottom: 20px;
+    }
+    .single-comment p {
+        padding-top: 16px;
+    }
+    li.single-comment .d-flex.align-items-center {
+        flex-wrap: wrap;
+    }
+    .single-comment {
+        flex-wrap: wrap;
+        padding: 30px;
+    }
+    .error {
+        width: 100%;
+    }
+    .slider-home-2.owl-theme .owl-nav.disabled+.owl-dots {
+        right: 0;
+        display: flex;
+        position: relative;
+        margin-top: 40px;
+        justify-content: center;
+    }
+    .event-details-text .upcoming-event-time {
+        width: 58%;
+    }
+    .navPrev,
+    .navNext {
+        top: 80%;
+    }
+    .empowers {
+        width: 50%;
+    }
+    .donation {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .colorbolo {
+        display: none;
+    }
+    .shaps-bottom {
+        transform: translatey(7px);
+    }
+    .shaps-bottom img {
+        width: 103%;
+    }
+    .news-article-one h6 {
+        bottom: 68px;
+    }
+    .see-impact-data img.line-shaps {
+        bottom: -6%;
+    }
+    form.footer-from {
+        margin-top: 0;
+    }
+    .wpo-lower-footer p {
+        text-align: center;
+    }
+    .footer-from button {
+        margin-top: 10px;
+        position: relative;
+    }
+    .news-article-one {
+        margin-bottom: 40px;
+    }
+    .hero-section-three-data h4 {
+        width: 71%;
+    }
+    .upcoming-event-data>h4 {
+        font-size: 24px;
+        line-height: 34px;
+    }
+    .gifts-img.style-two img {
+        width: 100%;
+    }
+    .news-article-two img.man-img {
+        top: 57%;
+    }
+    ul.image-gallery li {
+        margin-left: 4px;
+    }
+    .footer-three {
+        width: 100%;
+    }
+    .upcoming-event-data.style-two .article h4 {
+        width: auto;
+        margin-left: -87px;
+        margin-right: 20px;
+        padding: 20px;
+    }
+    .fundraising-data.two {
+        margin: 0;
+    }
+    .what-we-provide-text {
+        padding: 35px;
+    }
+    .slider-home-2.owl-theme .owl-dots .owl-dot {
+        margin-bottom: 0;
+        margin: 10px;
+    }
+    .slider-nav-two.slick-initialized.slick-slider.slick-dotted {
+        width: 85%;
+    }
+    .slider-nav-two .slick-slide.slick-current.slick-active:after {
+        right: 38%;
+    }
+    .get-involved.data {
+        padding: 40px;
+    }
+    .nonprofit h6 {
+        padding-bottom: 26px;
+    }
+    .heading h2 {
+        font-size: 36px;
+        line-height: 46px;
+        width: 100%;
+        padding-bottom: 30px;
+    }
+    .help-man h5 {
+        width: 58%;
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .donate-form ul li {
+        padding-right: 9px;
+    }
+    .upcoming-event-img:hover>a i {
+        top: 45%;
+    }
+    .upcoming-event-time {
+        top: 44%;
+    }
+    .environment p {
+        width: 100%;
+    }
+    .environment .heading h2 {
+        padding-bottom: 20px;
+    }
+    .testimonials {
+        padding: 50px;
+        padding-bottom: 90px;
+    }
+    .testimonials h3 {
+        font-size: 30px;
+    }
+    .slick-dotted.slick-slider {
+        width: 80%;
+    }
+    .slider-nav .slick-slide.slick-current.slick-active:before {
+        width: 90%;
+        margin-left: 7px;
+    }
+    .gifts-slids.owl-theme .owl-nav {
+        width: 100%;
+        position: relative;
+    }
+    .gifts-img i {
+        font-size: 12px;
+    }
+    .article-data {
+        flex-wrap: wrap;
+    }
+    .article h4 {
+        width: auto;
+        margin: 0;
+        margin-bottom: 20px;
+    }
+    .widget-title {
+        position: relative;
+        padding-bottom: 40px;
+    }
+    .testimonials h4 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .footer-logo-one {
+        margin-bottom: 40px;
+    }
+    .social-media {
+        margin: 0;
+    }
+    .Information {
+        padding-top: 40px;
+    }
+    .subscribe form button {
+        right: 0%;
+        left: 0;
+        position: relative;
+    }
+    .forpage {
+        padding-bottom: 160px;
+    }
+    .meta-info ul li p {
+        padding-right: 18px;
+    }
+    .blog-details-text h2 {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .blog-details-text .article h4 {
+        margin-left: 40px;
+        transform: translateY(-85px);
+        margin-bottom: -65px;
+    }
+}
+
+@media(max-width: 600px) {
+    ul.image-gallery {
+        flex-wrap: wrap;
+    }
+    ul.image-gallery li {
+        margin-left: 15px;
+    }
+    .gap-margin {
+        margin: 0;
+    }
+    .charity-style-three .progresbar {
+        right: 18%;
+    }
+    .charity-style-three .progresbar {
+        right: -4%;
+        bottom: -16%;
+    }
+    .charity-style-three .btn {
+        left: 34%;
+        top: 24%;
+    }
+}
+
+@media(max-width: 576px) {
+    .gap {
+        padding: 80px 0;
+    }
+    .quote {
+        padding: 40px;
+    }
+    .contact-map {
+        margin-bottom: 0;
+    }
+    .page-title-area {
+        padding-top: 120px;
+    }
+    .pt-100 {
+        padding-top: 60px;
+    }
+    .quote h3 {
+        font-size: 22px;
+        line-height: 32px;
+    }
+    .mobile-nav>ul li>a {
+        font-size: 14px;
+        line-height: 26px;
+    }
+    .charity-style-three-data {
+        padding-top: 10px;
+    }
+    .recent-causes-urgent a h4 {
+        padding-top: 14px;
+    }
+    .enter-your-information-data {
+        margin: 0;
+        margin-bottom: 20px;
+    }
+    .project-today.owl-carousel .owl-item img {
+        display: block;
+        width: 100%;
+    }
+    .contact-map iframe {
+        height: 330px;
+    }
+    .project-today-data.item {
+        flex-wrap: wrap;
+    }
+    .quote h3 {
+        font-size: 22px;
+        line-height: 32px;
+    }
+    .donate-page {
+        padding: 30px;
+    }
+    ul.specification li span {
+        padding-left: 20px;
+        left: 29%;
+    }
+    .description {
+        padding: 28px;
+    }
+    .post-tags {
+        flex-wrap: wrap;
+    }
+    .post-tags h6 {
+        padding-right: 0px;
+        margin-bottom: 20px;
+        padding-left: 12px;
+    }
+    .quote span {
+        line-height: 0;
+        padding-top: 40px;
+        padding-bottom: 20px;
+    }
+    .quote {
+        flex-wrap: wrap;
+    }
+    .meta-info ul {
+        flex-wrap: wrap;
+    }
+    .blog-details-text h2 {
+        font-size: 24px;
+        line-height: 34px;
+    }
+    .footer-bootom-bar.fore .wpo-lower-footer P {
+        text-align: center;
+    }
+    .about-the-theodore .d-flex.align-items-center {
+        flex-wrap: wrap;
+    }
+    .error {
+        padding: 50px;
+    }
+    .upcoming-event-time h4 {
+        font-size: 42px;
+    }
+    .event-details-text h2 {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    section.gap.about-img-slidr {
+        margin-top: 80px;
+    }
+    .title-area-data h2 {
+        font-size: 56px;
+    }
+    .title-area-data {
+        padding-bottom: 40px;
+    }
+    .volunteer-for h3 {
+        font-size: 50px;
+        margin-top: 70px;
+    }
+    .volunteer-for h2 {
+        padding-top: 12px;
+        padding-bottom: 12px;
+    }
+    .shaps-bottom {
+        transform: translatey(9px);
+    }
+    .footer-for .shaps-bottom {
+        margin-top: -8px;
+    }
+    .forslider h1 {
+        font-size: 46px;
+    }
+    .poor-boy-data h2 {
+        font-size: 40px;
+        line-height: 44px;
+    }
+    .forpage {
+        padding-bottom: 140px;
+    }
+    .ps-6 {
+        padding: 0;
+    }
+    .footer-bootom-bar.fore .wpo-lower-footer {
+        padding: 0px 0;
+        padding-top: 60px;
+    }
+    .navPrev,
+    .navNext {
+        display: none;
+    }
+    .what-we-provide-text {
+        padding: 50px;
+    }
+    .gap-left {
+        padding: 0;
+    }
+    footer.footer-two .wpo-lower-footer p,
+    footer.footer-two .footer-bootom-bar a {
+        color: black;
+        text-align: center;
+    }
+    .fundraising-data {
+        margin: 10px;
+        margin-top: -140px;
+    }
+    .support h3 {
+        padding-bottom: 0;
+    }
+    .support h2 {
+        font-size: 30px;
+    }
+    .fundraising-data {
+        margin-bottom: 0;
+    }
+    .fundraising-data.two {
+        margin: 10px;
+    }
+    .slider-nav-two .slick-slide.slick-current.slick-active {
+        position: relative;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+    }
+    .support {
+        padding: 40px;
+        margin-bottom: 20px;
+    }
+    .slider-nav-two .slick-slide.slick-current.slick-active:after {
+        right: 44%;
+    }
+    .testimonial h5 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .no-top {
+        padding-top: 0;
+    }
+    .no-bottom {
+        padding-bottom: 0;
+    }
+    .change-we-need {
+        padding: 0;
+    }
+    .slider-nav .slick-slide.slick-current.slick-active:before {
+        width: 124px;
+        margin-left: 43px;
+    }
+    .slider-nav .slick-slide.slick-current.slick-active:before {
+        width: 124px;
+        margin-left: 43px;
+    }
+    .add-to-cart {
+        width: 84%;
+    }
+}
+
+@media(max-width: 500px) {
+    .home-life h1 {
+        font-size: 64px;
+    }
+    .pd-main-img img {
+        width: 100%;
+    }
+    #mobile-nav,
+    .mobile-nav {
+        width: 100%;
+    }
+    .help-man img.helptwo,
+    .help-man img {
+        width: 100%;
+    }
+    .product-info h2 {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    ul.pd-imgs li a {
+        width: 100px;
+        height: 100px;
+    }
+    form.variations_form ins span {
+        font-size: 22px;
+    }
+    form.variations_form span {
+        font-size: 14px;
+    }
+    .hero-section-three-data h2 {
+        font-size: 70px;
+    }
+    .event-details-text .upcoming-event-time {
+        width: 65;
+    }
+    .hero-section-three-data h4 {
+        width: 90%;
+        font-size: 18px;
+        line-height: 28px;
+    }
+    .upcoming-event-data.style-two {
+        margin-top: 30px;
+        flex-wrap: wrap;
+    }
+    .upcoming-event-data.style-two {
+        margin-left: 0;
+    }
+    .upcoming-event-data.style-two .article h4 {
+        margin: 0;
+        margin-bottom: 20px;
+    }
+    .recent-causes-data {
+        padding: 40px;
+    }
+    .help-man h5 {
+        width: 65%;
+    }
+    .upcoming-event-data>h4 {
+        font-size: 26px;
+        line-height: 36px;
+    }
+    .slider-nav .slick-slide.slick-current.slick-active:before {
+        margin-left: 33px;
+    }
+    .article-data h3 {
+        font-size: 26px;
+        line-height: 36px;
+    }
+    .help-man img.helptwo {
+        margin-top: 30px;
+    }
+    .slider-home-1.owl-theme .owl-nav.disabled+.owl-dots {
+        position: absolute;
+        top: 74%;
+        left: 42%;
+        display: flex;
+    }
+    .heading h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+}
+
+@media(max-width: 480px) {
+    .help-man h5 {
+        width: 86%;
+    }
+    .cart_totals.cart-Total {
+        padding: 30px;
+    }
+    .enter-your-information-data .d-flex {
+        flex-wrap: wrap;
+    }
+    .homeless .progressbar {
+        margin-right: 23%;
+    }
+    .separator {
+        width: 140px;
+    }
+    form.donate-form input[type='radio']:after {
+        top: 0px;
+    }
+    .radio-to {
+        display: block;
+    }
+    input[type='radio']:after {
+        top: 29px;
+    }
+    .enter-your-information .nice-select.Advice {
+        margin-right: 10px;
+        margin-top: 10px;
+    }
+    form.variations_form input.input-text {
+        width: 55%;
+    }
+    .enter-your-information-data {
+        padding: 0;
+    }
+    .enter-your-information .nice-select.Advice {
+        margin-right: 10px;
+        margin-top: 10px;
+        margin: 0;
+        margin-bottom: 10px;
+    }
+    .donate-page {
+        background-color: transparent;
+        padding: 0;
+    }
+    ul.specification li h6 {
+        padding-left: 8px;
+        font-size: 14px;
+    }
+    ul.specification li span {
+        padding-left: 14px;
+        left: 26%;
+    }
+    .rating {
+        flex-wrap: wrap;
+    }
+    .nav-pills .nav-link.active {
+        font-size: 14px;
+        padding: 0px 12.4px;
+    }
+    .what-do-you-get {
+        padding-bottom: 20px;
+        padding: 0;
+        padding-top: 30px;
+        padding-bottom: 0px;
+    }
+    .description {
+        padding: 30px;
+        margin-top: -43px;
+        padding-top: 70px;
+    }
+    .instagram-posts a img {
+        height: 110px;
+    }
+    .youtube-video img {
+        height: 300px;
+    }
+    .obviously h3 {
+        padding: 30px;
+    }
+    .share-post-icon ul.social-media-icon.full {
+        margin-top: 30px;
+    }
+    .youtube-video i {
+        height: 75px;
+        width: 75px;
+    }
+    .youtube-video svg {
+        width: 20px;
+    }
+    .teme-from {
+        padding: 30px;
+    }
+    .title-area-data h2 {
+        font-size: 44px;
+    }
+    .recent-causes-urgent h3 {
+        font-size: 24px;
+    }
+    .shaps-bottom {
+        transform: translatey(10px);
+    }
+    .details-or-information h3 {
+        font-size: 24px;
+        padding-bottom: 15px;
+    }
+    .details-or-information {
+        padding-top: 40px;
+        margin-top: 40px;
+    }
+    .team-list li {
+        font-size: 16px;
+    }
+    .charity-event-img img {
+        width: 100%;
+    }
+    .get-involved.develop {
+        padding: 30px;
+        flex-wrap: wrap;
+    }
+    .get-involved.develop i {
+        transform: translatex(-0px);
+        margin-top: 0px;
+        margin-bottom: 20px;
+    }
+    .get-involved.develop {
+        margin: 0;
+        width: 100%;
+        margin-bottom: 25px;
+    }
+    .small-donations .progressbar {
+        display: inline-block;
+        width: 33px;
+        margin-right: 134px;
+    }
+    .news-article-two img.man-img {
+        bottom: 190px;
+        top: auto;
+    }
+    section.small-donations .heading.two h2 {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .upcoming-event-data {
+        padding: 40px;
+        padding-top: 110px;
+    }
+    .slider-nav .slick-slide.slick-current.slick-active:before {
+        display: none;
+    }
+    .testimonials h4 {
+        font-size: 18px;
+        line-height: 28px;
+    }
+    .testimonials {
+        padding: 38px;
+        padding-bottom: 90px;
+    }
+    .upcoming-event-img:hover>a i {
+        top: 39%;
+    }
+    .upcoming-event-data>h4 {
+        font-size: 22px;
+        line-height: 32px;
+    }
+    .upcoming-event-time {
+        top: 40%;
+    }
+    .hero-section-three-data h2 {
+        padding-top: 10px;
+    }
+}
+
+@media(max-width: 450px) {
+    .home-life h1 {
+        font-size: 50px;
+    }
+    .rating {
+        padding-bottom: 20px;
+    }
+    .donation-section .circle.three div {
+        top: 37%;
+        left: 44%;
+        font-size: 40px;
+    }
+    .circle.three:before {
+        left: 22%;
+        top: 52%;
+        font-size: 16px;
+    }
+    .donation-section .homeless .circle.three canvas {
+        width: 150px !important;
+        height: 150px !important;
+    }
+    .charity-style-three .progresbar {
+        right: -16%;
+        bottom: -16%;
+    }
+    .blog-details-text .article h4 {
+        transform: translateY(0px);
+        margin-bottom: 20px;
+        margin-top: 20px;
+        margin-left: 0;
+    }
+    .meta-info ul li i,
+    .meta-info ul li a,
+    .meta-info ul li p {
+        font-size: 14px;
+    }
+    .organizer {
+        flex-wrap: wrap;
+    }
+    .organizer img {
+        margin-bottom: 10px;
+    }
+    .event-time i {
+        font-size: 36px;
+    }
+    .page-title-area {
+        padding-top: 100px;
+    }
+    .project-today .owl-item.active.center .project-today-data {
+        padding: 20px;
+    }
+    .recent-causes-urgent a h4 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .quote {
+        padding: 40px;
+    }
+    ul.specification li {
+        padding: 15px;
+    }
+    ul.specification li h6 {
+        padding-left: 0px;
+        font-size: 12px;
+    }
+    .blog-details-two-style {
+        padding: 0 30px;
+        padding-bottom: 30px;
+    }
+    .quote h3 {
+        font-size: 18px;
+        line-height: 28px;
+    }
+    .error input {
+        font-size: 13px;
+    }
+    .error h3 {
+        font-size: 24px;
+    }
+    .error form {
+        margin-top: 15px;
+        position: relative;
+        margin-bottom: 15px;
+    }
+    .forslider h1 {
+        font-size: 40px;
+    }
+    .investment-the-world .heading.two h2 {
+        font-size: 26px;
+        line-height: 36px;
+    }
+    ul.image-gallery li {
+        margin-left: 10px;
+    }
+    .heading p {
+        font-size: 14px;
+    }
+    .hero-section-three-data h2 {
+        font-size: 60px;
+    }
+    .poor-boy-data h2 {
+        font-size: 34px;
+    }
+    .poor-boy-data h6 {
+        font-size: 16px;
+    }
+    .empowers h5 {
+        font-size: 44px;
+        line-height: 40px;
+    }
+    .empowers {
+        width: 80%;
+        padding: 33px;
+    }
+    .volunteer-for h3 {
+        font-size: 44px;
+    }
+    .help-us-reach h2 {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .footer-for .shaps-bottom {
+        margin-top: -9px;
+    }
+    h3 {
+        font-size: 22px;
+        line-height: 32px;
+    }
+    .upcoming-event-data {
+        padding: 30px;
+        padding-top: 110px;
+    }
+    .btn {
+        font-size: 14px;
+        padding: 26px 36px;
+    }
+    .heading h2 {
+        font-size: 26px;
+        line-height: 36px;
+    }
+    .help-man h5 {
+        width: 86%;
+        font-size: 12px;
+        line-height: 22px;
+    }
+    .upcoming-event-data h6 {
+        font-size: 16px;
+    }
+    .social-media {
+        margin: 0;
+        flex-wrap: wrap;
+    }
+    .wpo-lower-footer .boder {
+        margin: 10px !important;
+    }
+    .subscribe svg {
+        margin-bottom: 16px;
+    }
+    .subscribe {
+        padding: 24px;
+    }
+    .subscribe .d-flex.align-items-center {
+        flex-wrap: wrap;
+        justify-content: center;
+        text-align: center;
+    }
+    .social-media li {
+        margin-bottom: 10px;
+    }
+    h2 {
+        font-size: 36px;
+        line-height: 46px;
+    }
+    .Information ul li {
+        width: 100%;
+    }
+    .contact-info a {
+        font-size: 16px;
+    }
+    .widget-title p {
+        width: 100%;
+    }
+    .gifts-img i {
+        font-size: 14px;
+    }
+    .article h4 {
+        width: 100px;
+        margin: 0;
+        margin-bottom: 20px;
+        padding: 16px;
+    }
+    .article h4 {
+        width: 100px;
+        height: auto;
+    }
+    .hero-section-three {
+        padding-bottom: 70px;
+        padding-top: 100px;
+    }
+}
+
+@media(max-width: 410px) {
+    .upcoming-event-time {
+        top: 40%;
+    }
+    .charity-style-three:hover .btn {
+        left: 28%;
+        top: 20%;
+    }
+    .Fund-cercle span {
+        left: 32%;
+    }
+    .quote span {
+        font-size: 100px;
+    }
+    .quote {
+        padding: 30px;
+    }
+    .breadcrumb-item+.breadcrumb-item {
+        padding-left: 10px;
+    }
+    .upcoming-event-time h4 {
+        font-size: 30px;
+    }
+    .upcoming-event-time span {
+        font-size: 12px;
+        line-height: 15px;
+    }
+    .breadcrumb-item+.breadcrumb-item::before {
+        padding-right: 0.5rem;
+    }
+    .flex-column {
+        border-radius: 5px;
+    }
+    .post-tags li a {
+        line-height: 50px;
+    }
+    .checkout-side {
+        padding: 40px;
+    }
+    .instagram-posts a img {
+        height: 90px;
+    }
+    .item.recent-causes i {
+        width: 48px;
+        height: 48px;
+        font-size: 16px;
+    }
+    .give-donation-level-btn {
+        padding: 14px;
+        font-size: 14px;
+    }
+    li.breadcrumb-item {
+        font-size: 14px;
+    }
+    .event-details-text .upcoming-event-time {
+        width: 82%;
+    }
+    .title-area-data h2 {
+        font-size: 38px;
+    }
+    .news-article-one h6 {
+        bottom: 68px;
+        right: 0;
+    }
+    .breadcrumb-item+.breadcrumb-item {
+        padding-left: 15px;
+    }
+    .breadcrumb-item+.breadcrumb-item::before {
+        padding-right: 0.5rem;
+    }
+    .news-article-one h3 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .upcoming-event-data>h4 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .upcoming-event-data h6 {
+        font-size: 14px;
+    }
+    .upcoming-event-img:hover>a i {
+        top: 34%;
+    }
+    .small-donations .progressbar {
+        display: inline-block;
+        width: 19px;
+        margin-right: 134px;
+    }
+    .progressbar {
+        margin-right: 105px;
+    }
+    .charity-style-three .progresbar {
+        right: -8%;
+        bottom: -20%;
+    }
+}
+
+@media(max-width: 375px) {
+    .footer-bootom-bar a {
+        font-size: 14px;
+    }
+    .charity-style-three:hover .btn {
+        left: 26%;
+        top: 18%;
+    }
+    .popular-posts li h4 {
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .slider-nav-two .slick-slide.slick-current.slick-active:after {
+        right: 41%;
+    }
+    .upcoming-event-time {
+        top: 36%;
+    }
+    .description {
+        padding: 18px;
+        margin-top: -43px;
+        padding-top: 60px;
+    }
+    .recent-causes-data {
+        padding: 30px;
+        width: 90%;
+    }
+    .please-donate-today {
+        padding: 30px;
+    }
+    .content {
+        padding: 0px 22px;
+        padding-bottom: 22px;
+    }
+    .urgent-causes {
+        padding: 30px;
+    }
+    .title {
+        padding: 20px 20px;
+        padding-right: 0;
+        font-size: 15px;
+    }
+    .recent-causes-urgent {
+        margin-bottom: 0;
+    }
+    table.shop_table_responsive tr {
+        font-size: 16px;
+    }
+    ul.pd-imgs li a {
+        width: 85px;
+        height: 85px;
+    }
+    .team-list li {
+        font-size: 14px;
+    }
+    .blog-details-two-style li.single-comment.children {
+        margin-left: 0px;
+    }
+    .footer-bootom-bar p {
+        font-size: 14px;
+    }
+    h3 {
+        font-size: 20px;
+        line-height: 32px;
+    }
+    .news-article-two img.man-img {
+        bottom: 200px;
+    }
+    .donation-section .homeless .circle.three canvas {
+        width: 130px !important;
+        height: 130px !important;
+    }
+    .donation-section .circle.three div {
+        top: 31%;
+        left: 44%;
+        font-size: 36px;
+    }
+    .circle.three:before {
+        left: 22%;
+        top: 43%;
+        font-size: 13px;
+    }
+    .help-man-data ul li {
+        font-size: 14px;
+    }
+    .help-man-data ul li .bol {
+        width: 12px;
+        height: 12px;
+        border: 2px solid #ff3636;
+        margin-right: 8px;
+    }
+    .environment input {
+        width: 95%;
+        font-size: 14px;
+        height: 60px;
+        margin-top: 14px;
+        margin-bottom: 8px;
+    }
+    .about-the-theodore {
+        padding: 20px;
+    }
+    .article-data h3 {
+        font-size: 22px;
+        line-height: 32px;
+    }
+    .testimonials h3 {
+        font-size: 24px;
+    }
+    .help-man-data p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .home-life h4 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+}
